@@ -40,7 +40,16 @@ Parallel to this, I am exploring the absolute frontier of full stack development
 
 ## Tools I Use
 
-`Java` · `C++` · `Python` · `Next.js` · `PostgreSQL` · `LightGBM` · `Visual Basic`
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/LightGBM-4A4A55?style=for-the-badge" alt="LightGBM" />
+  <img src="https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Basic" />
+</p>
 
 <details>
 <summary><strong>Recent public activity</strong></summary>
