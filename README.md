@@ -23,8 +23,8 @@ I thrive on guiding ideas from pure imagination to seamless execution. This invo
 | Project | What I Built | My Role · Current State |
 | --- | --- | --- |
 | [**Telecastt**](https://github.com/johnnyhett/Telecastt) | A browser based hardware tethering utility enabling seamless secondary display mirroring across local networks. | Creator · Lead Engineer<br>Active Development |
-| **bluRyde** | A multi party vehicle rental marketplace platform featuring complex PostgreSQL database schemas and third party payment gateway logic. | Full Stack Developer<br>Stable Release |
-| **Project L** | A proprietary quantitative modeling engine combining advanced gradient boosting architectures with complex temporal logic matrices. | System Architect<br>Private Development |
+
+| **LOGRETTA** | A proprietary quantitative modeling engine combining advanced gradient boosting architectures with complex temporal logic matrices. | System Architect<br>Private Development |
 
 ## Selected Highlights
 
