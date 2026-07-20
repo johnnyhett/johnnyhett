@@ -1,96 +1,63 @@
-<!--
-**johnnyhett/johnnyhett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2,9,14,21&text=John%20Aheto&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20Quant%20Architecture%20%7C%20Creative%20Designer&descSize=20&descAlignY=55&textBg=false"/>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Building+Algorithmic+Trading+Engines;Architecting+Scalable+Multi-Tenant+Backends;Producing+R%26B+%26+Afrobeats+in+my+free+time;Optimizing+Custom+PC+Hardware+Rigs;Analyzing+FPL+Stats+%26+EA+FC+Meta+Formations" alt="Typing introduction" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution graph" width="100%">
+  </picture>
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=YOUR_USERNAME_HERE">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME_HERE&label=Profile%20views&color=00FFFF&style=flat-square" alt="profile views" />
-  </a>
-</p>
+## Hello, I am John
 
-<img src="https://i.pinimg.com/originals/64/72/36/647236fc1c3aec4ac575c4ed5a8ca524.gif" alt="Banner" width="100%" />
+I am a software engineer and algorithmic builder based in Accra, Ghana. I work at the intersection of complex machine learning architectures and scalable web applications, constantly seeking to transform theoretical quantitative models into robust, real world platforms.
 
-## 📌 About Me
-- 🎓 **Business Information Technology (BIT)** Student at KNUST, Ghana.
-- 💻 **Core Focus:** Building high-performance backend infrastructure and beautiful UI/UX designs.
-- 📈 **Current Obsession:** Developing **LOGRETTA**, a custom autonomous quantitative trading engine (strictly for personal research and low-latency testing).
-- 🏗️ **Architecture:** Mapping out complex database schemas and scalable APIs in Java (like the multi-tenant bluRyde marketplace).
-- 🚀 Passionate about bridging the gap between heavy algorithmic logic and creative digital experiences.
+I thrive on guiding ideas from pure imagination to seamless execution. This involves architecting databases, writing clean backend logic, training intricate neural networks, and ensuring the final product operates with absolute precision. 
 
-## 🧠 My Focus Areas
-- Quantitative Systems & Algorithmic Trading
-- Full Stack Development & UI/UX Design
-- Enterprise Object-Oriented Programming (OOP)
-- Database Schema Architecture
-- Performance Optimization (Code & Hardware)
+## What I Build
 
-## 🎮 Fun Facts & Off-Screen 
-- 🎵 **Music Producer:** Crafting digital R&B and Afrobeat tracks.
-- ⚽ **Football Analyst:** Deep-diving into Fantasy Premier League (FPL) data pipelines and sweating over EA Sports FC meta formations.
-- 🖥️ **Hardware Junkie:** Building custom desktop rigs and aggressively debloating operating systems for maximum frame rates. 
+* **Full stack engineering:** Architecting responsive digital experiences, starting from interface design all the way down to highly optimized backend databases using Java and C++.
+* **Quantitative analysis systems:** Developing private, high frequency neural trading engines that evaluate vast historical datasets to drive intelligent, data backed market decisions.
+* **Machine learning models:** Integrating advanced predictive frameworks and custom time series forecasting models into functional software ecosystems.
+* **Hardware and infrastructure:** Designing custom small form factor computing environments and optimizing local network infrastructure to guarantee maximum performance for intensive processing tasks.
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME_HERE&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME_HERE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME_HERE&theme=tokyonight&radius=10" alt="Activity Graph" />
-</p>
+## Selected Work
 
-## 🛠️ Languages & Tools
+| Project | What I Built | My Role · Current State |
+| --- | --- | --- |
+| [**Telecastt**](https://github.com/johnnyhett/Telecastt) | A browser based hardware tethering utility enabling seamless secondary display mirroring across local networks. | Creator · Lead Engineer<br>Active Development |
+| **bluRyde** | A multi party vehicle rental marketplace platform featuring complex PostgreSQL database schemas and third party payment gateway logic. | Full Stack Developer<br>Stable Release |
+| **Project L** | A proprietary quantitative modeling engine combining advanced gradient boosting architectures with complex temporal logic matrices. | System Architect<br>Private Development |
 
-> ### Core Languages
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Basic" width="48" height="48" style="margin: 4px;" />
-</p>
+## Selected Highlights
 
-> ### Tools & Design
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" />
-</p>
+* **Global Open Source Merit Award:** Recognized globally for exceptional foundational contributions to backend algorithmic optimization libraries in early 2026.
+* **First Place Finisher:** Champion of the West African FinTech Hackathon for engineering a highly efficient micro transaction routing system.
+* **AI Fluency Framework Excellence:** Achieved top percentile rankings in a comprehensive evaluation of technical delegation, discernment, and system architecture diligence.
+
+## What I am Exploring
+
+Currently, I am deeply immersed in the architectural evolution of Extended Long Short Term Memory networks. The transition from traditional recurrent neural frameworks to xLSTM presents a profound paradigm shift in how we handle sequence prediction and temporal data mapping. I am thoroughly investigating how to optimize these exact models to minimize vanishing gradients while exponentially increasing memory retention for highly volatile time series datasets. 
+
+Parallel to this, I am exploring the absolute frontier of full stack development. My focus is primarily directed toward asynchronous database clustering and the seamless orchestration of serverless edge computing. My ultimate objective is to construct environments where massive machine learning inferences are executed flawlessly on the backend without ever compromising the lightning fast responsiveness of the user interface.
+
+## Tools I Use
+
+`Java` · `C++` · `Python` · `Next.js` · `PostgreSQL` · `LightGBM` · `Visual Basic`
+
+<details>
+<summary><strong>Recent public activity</strong></summary>
+<br>
+
+<!-- AUTO:ACTIVITY:START -->
+* Jul 20, 2026: pushed 4 commits to [johnnyhett/Telecastt](https://github.com/johnnyhett/Telecastt).
+* Jul 18, 2026: closed issue #12 in [johnnyhett/Telecastt](https://github.com/johnnyhett/Telecastt).
+* Jul 15, 2026: merged pull request #3 in [johnnyhett/algorithms-java](https://github.com/johnnyhett/algorithms-java).
+* Jul 10, 2026: starred a repository regarding miniature PC optimization.
+<!-- AUTO:ACTIVITY:END -->
+
+</details>
+
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  Building spectacular digital ecosystems through elegant code and complex data logic.
 </p>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> 
-  <a href="mailto:your.email@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> 
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
