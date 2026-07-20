@@ -24,8 +24,6 @@ I thrive on guiding ideas from pure imagination to seamless execution. This invo
 | --- | --- | --- |
 | [**Telecastt**](https://github.com/johnnyhett/Telecastt) | A browser based hardware tethering utility enabling seamless secondary display mirroring across local networks. | Creator · Lead Engineer<br>Active Development |
 
-| **LOGRETTA** | A proprietary quantitative modeling engine combining advanced gradient boosting architectures with complex temporal logic matrices. | System Architect<br>Private Development |
-
 ## Selected Highlights
 
 * **Global Open Source Merit Award:** Recognized globally for exceptional foundational contributions to backend algorithmic optimization libraries in early 2026.
