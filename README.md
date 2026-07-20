@@ -8,8 +8,7 @@
 
 ## Hello, I am John
 
-I am a software engineer and algorithmic builder based in Accra, Ghana. I work at the intersection of complex machine learning architectures and scalable web applications, constantly seeking to transform theoretical quantitative models into robust, real world platforms.
-
+I am a Junior Software Engineer. I work at the intersection of complex machine learning architectures and scalable web applications, constantly seeking to transform theoretical quantitative models into robust, real world platforms.
 I thrive on guiding ideas from pure imagination to seamless execution. This involves architecting databases, writing clean backend logic, training intricate neural networks, and ensuring the final product operates with absolute precision. 
 
 ## What I Build
